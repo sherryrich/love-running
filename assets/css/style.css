@@ -261,6 +261,8 @@ footer{
     height: 900px;
 }
 
+
+
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
@@ -269,6 +271,7 @@ footer{
     position: absolute;
     left: 10%;
     padding: 30px;
+    
 }
 
 .signup-form > h2 {
@@ -290,7 +293,7 @@ footer{
     border-color: #f16c6b;
 }
 
-.join-button {
+.join-button  {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
@@ -392,3 +395,5 @@ footer{
         column-count: 2;
     }
 }
+
+
